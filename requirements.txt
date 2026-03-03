@@ -1,0 +1,7 @@
+langchain
+pydantic
+pyyaml
+numpy
+pandas
+tqdm
+pytest
